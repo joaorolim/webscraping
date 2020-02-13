@@ -71,7 +71,7 @@ def processa_blocos_carros(soup):
     print("\n")
 
     # Grava o resultado em csv
-    with open("dados_copiados_v1.csv", "w") as f:
+    with open("dados_copiados_v1.csv", "w", newline='') as f:
         writer = csv.DictWriter(f, fieldnames = linha.keys())
         writer.writeheader()
         writer.writerows(linhas)

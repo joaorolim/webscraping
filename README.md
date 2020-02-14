@@ -1,5 +1,5 @@
 <h1>WebScraping</h1>
-<h3>Fonte: <a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></h3>
+<h3>Fonte: <a href="https://www.datascienceacademy.com.br/" target="_blank">Data Science Academy</a></h3>
 <blockquote><i>(Módulo Extra de Capacitação Profissional)</i></blockquote>
 
 <!-- [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY) 
